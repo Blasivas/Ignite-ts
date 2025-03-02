@@ -1,0 +1,19 @@
+.Header{
+  background: var(--gray-800);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1.25rem 0;
+  gap: 1rem;
+}
+
+.Header img{
+  height: 4rem;
+  width: 4rem;
+}
+
+.Header strong{
+  font-weight: 700;
+  font-size: 1.6rem;
+  color: var(--gray-100);
+}
